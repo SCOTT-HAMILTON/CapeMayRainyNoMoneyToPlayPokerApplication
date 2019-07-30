@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translations/CapeMayRainyDayNoMoneyToPlayPokerApplication-en_US.qm</file>
+        <file>translations/CapeMayRainyDayNoMoneyToPlayPokerApplication-fr_FR.qm</file>
+        <file>icons/icons8-back-to-96.png</file>
+        <file>icons/icons8-cards-96.png</file>
+        <file>icons/icons8-next-page-96.png</file>
+        <file>Material-blue.qss</file>
+        <file>Material-white.qss</file>
+        <file>icons/settings.png</file>
+    </qresource>
+</RCC>
